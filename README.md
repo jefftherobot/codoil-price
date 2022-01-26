@@ -1,2 +1,1 @@
-# codoil-price
-Prices for home heating oil from codoil.com
+A test of [Puppeteer](https://github.com/GoogleChrome/puppeteer) on Glitch, grabbing part of the Puppeteer homepage.
